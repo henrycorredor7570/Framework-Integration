@@ -11,7 +11,7 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class PersonaDaoImpl implements PersonaDao {
+public class PersonaDaoImpl implements PersonaDao{
 
     Logger log = LogManager.getRootLogger();
 
