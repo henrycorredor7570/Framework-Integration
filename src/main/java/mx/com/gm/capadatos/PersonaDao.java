@@ -4,7 +4,6 @@ import java.util.List;
 import mx.com.gm.capadatos.domain.Persona;
 
 public interface PersonaDao {
-
     void insertPersona(Persona persona);
 
     void updatePersona(Persona persona);
